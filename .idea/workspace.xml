@@ -6,6 +6,7 @@
       <change beforePath="$PROJECT_DIR$/../SSM/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SSM/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SSM/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SSM/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SSM/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SSM/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +25,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -96,58 +97,98 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575359160946</updated>
-      <workItem from="1575359165786" duration="7699000" />
+      <workItem from="1575359165786" duration="10222000" />
     </task>
+    <task id="LOCAL-00001" summary="SpringBoot整合Ehcache案例">
+      <created>1575367155183</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575367155183</updated>
+    </task>
+    <task id="LOCAL-00002" summary="跨域问题解决">
+      <created>1575373895332</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575373895332</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="SpringBoot整合Ehcache案例" />
+    <MESSAGE value="跨域问题解决" />
+    <option name="LAST_COMMIT_MESSAGE" value="跨域问题解决" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="175" y="0" key="#HTTP_Proxy" timestamp="1575377420001">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="175" y="0" key="#HTTP_Proxy/0.0.1366.728@0.0.1366.728" timestamp="1575377420001" />
     <state x="175" y="0" key="#Intentions" timestamp="1575361481977">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="175" y="0" key="#Intentions/0.0.1366.728@0.0.1366.728" timestamp="1575361481977" />
+    <state x="444" y="4" key="#com.intellij.ide.util.MemberChooser" timestamp="1575373516751">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="444" y="4" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1575373516751" />
+    <state x="102" y="0" key="CommitChangelistDialog2" timestamp="1575373892942">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="102" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1575373892942" />
     <state x="413" y="45" key="FileChooserDialogImpl" timestamp="1575367098781">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="45" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1575367098781" />
-    <state width="1313" height="288" key="GridCell.Tab.0.bottom" timestamp="1575367007864">
+    <state width="1313" height="288" key="GridCell.Tab.0.bottom" timestamp="1575377819327">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1313" height="288" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1575367007864" />
-    <state width="1313" height="288" key="GridCell.Tab.0.center" timestamp="1575367007864">
+    <state width="1313" height="288" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1575377819327" />
+    <state width="1313" height="288" key="GridCell.Tab.0.center" timestamp="1575377819327">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1313" height="288" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1575367007864" />
-    <state width="1313" height="288" key="GridCell.Tab.0.left" timestamp="1575367007864">
+    <state width="1313" height="288" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1575377819327" />
+    <state width="1313" height="288" key="GridCell.Tab.0.left" timestamp="1575377819327">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1313" height="288" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1575367007864" />
-    <state width="1313" height="288" key="GridCell.Tab.0.right" timestamp="1575367007864">
+    <state width="1313" height="288" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1575377819327" />
+    <state width="1313" height="288" key="GridCell.Tab.0.right" timestamp="1575377819327">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1313" height="288" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1575367007864" />
-    <state width="1313" height="288" key="GridCell.Tab.1.bottom" timestamp="1575367007865">
+    <state width="1313" height="288" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1575377819327" />
+    <state width="1313" height="288" key="GridCell.Tab.1.bottom" timestamp="1575377819328">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1313" height="288" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1575367007865" />
-    <state width="1313" height="288" key="GridCell.Tab.1.center" timestamp="1575367007864">
+    <state width="1313" height="288" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1575377819328" />
+    <state width="1313" height="288" key="GridCell.Tab.1.center" timestamp="1575377819328">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1313" height="288" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1575367007864" />
-    <state width="1313" height="288" key="GridCell.Tab.1.left" timestamp="1575367007864">
+    <state width="1313" height="288" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1575377819328" />
+    <state width="1313" height="288" key="GridCell.Tab.1.left" timestamp="1575377819328">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1313" height="288" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1575367007864" />
-    <state width="1313" height="288" key="GridCell.Tab.1.right" timestamp="1575367007864">
+    <state width="1313" height="288" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1575377819328" />
+    <state width="1313" height="288" key="GridCell.Tab.1.right" timestamp="1575377819328">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1313" height="288" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1575367007864" />
+    <state width="1313" height="288" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1575377819328" />
     <state x="100" y="0" key="Maven.ArtifactSearchDialog" timestamp="1575361002620">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="100" y="0" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1575361002620" />
+    <state x="175" y="32" key="Vcs.Push.Dialog.v2" timestamp="1575373910024">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="175" y="32" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1575373910024" />
+    <state x="0" y="44" key="new project wizard" timestamp="1575377719440">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="44" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1575377719440" />
     <state x="262" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1575361424451">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
